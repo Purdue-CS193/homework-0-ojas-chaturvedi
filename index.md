@@ -7,6 +7,6 @@ Here is a list of some of my favorite things about CS 19300:
 - My friends are in the class.
 - It's about computer science, and I love computer science.
 
-### Support or Contact
+### Support
 
-Having trouble with life? Deal with it. :)
+Having trouble with life? Too bad, so sad. Deal with it. :)
